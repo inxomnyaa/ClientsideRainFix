@@ -1,0 +1,10 @@
+---
+name: ClientsideRainFix
+main: xenialdan\ClientsideRainFix\Loader
+version: 0.0.0
+api: [ "4.0.0" ]
+load: POSTWORLD
+authors:
+  - XenialDan
+description: Workaround for client sided rain after some time in 1.17.10
+...
